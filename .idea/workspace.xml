@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f20f9309-3d4b-4d69-995c-ec96dc5d391d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/gitian-downloader/bluematt-key.pgp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/gitian-downloader/devrandom-key.pgp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/gitian-downloader/gavinandresen-key.pgp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/gitian-downloader/luke-jr-key.pgp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/gitian-downloader/sipa-key.pgp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/gitian-downloader/tcatm-key.pgp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/macdeploy/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/macdeploy/background.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/bitcoin_logo_doxygen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/pixmaps/addressbook16.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/pixmaps/addressbook16mask.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/pixmaps/addressbook20.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/pixmaps/addressbook20mask.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/pixmaps/bitcoin-bc.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/pixmaps/bitcoin.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/pixmaps/bitcoin32.xpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/pixmaps/bitcoin80.xpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/pixmaps/check.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/pixmaps/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/pixmaps/nsis-header.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/pixmaps/nsis-wizard.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/pixmaps/send16.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/pixmaps/send16mask.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/pixmaps/send16masknoshadow.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/pixmaps/send20.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/pixmaps/send20mask.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/qt/img/reload.xcf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/address-book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/bitcoin.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/bitcoin_testnet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/clock1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/clock2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/clock3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/clock4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/clock5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/configure.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/connect0_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/connect1_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/connect2_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/connect3_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/connect4_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/debugwindow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/editcopy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/editpaste.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/export.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/filesave.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/history.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/lock_closed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/lock_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/notsynced.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/novacoin-128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/novacoin-16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/novacoin-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/novacoin-48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/novacoin-80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/novacoin.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/novacoin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/overview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/qrcode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/quit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/receive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/remove.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/send.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/staking_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/staking_on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/synced.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/transaction0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/transaction2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/transaction_conflicted.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/tx_inout.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/tx_input.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/tx_mined.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/icons/tx_output.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/images/about.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/images/splash2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/images/splash3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/movies/update_spinner.mng" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Betcoin-qt.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/COPYING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/INSTALL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/bitrpc/bitrpc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/bin/novacoin-qt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/bin/novacoind" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/changelog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/compat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/control" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/copyright" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/examples/novacoin.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/gbp.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/manpages/novacoin.conf.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/manpages/novacoind.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/novacoin-qt.desktop" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/novacoin-qt.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/novacoin-qt.lintian-overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/novacoin-qt.protocol" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/novacoind.examples" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/novacoind.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/novacoind.lintian-overrides" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/novacoind.manpages" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/patches/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/patches/series" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/rules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/source/format" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/debian/watch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/gitian-descriptors/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/gitian-descriptors/boost-win32.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/gitian-descriptors/deps-win32.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/gitian-descriptors/gitian-win32.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/gitian-descriptors/gitian.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/gitian-descriptors/qt-win32.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/gitian-downloader/laanwj-key.pgp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/gitian-downloader/linux-download-config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/gitian-downloader/richardsmith-key.gpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/gitian-downloader/scottnadal-key.gpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/gitian-downloader/sunnyking-key.gpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/gitian-downloader/win32-download-config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/macdeploy/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/macdeploy/fancy.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/macdeploy/macdeployqtplus" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/macdeploy/notes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/qt_translations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/wallettools/walletchangepass.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contrib/wallettools/walletunlock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/Doxyfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/README_windows.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/assets-attribution.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build-msw.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build-osx.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/build-unix.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/coding.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/readme-qt.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/release-process.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/translation_process.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/genbuild.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/qt/extract_strings_qt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/qt/make_spinner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/qt/make_windows_icon.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/setup.nsi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/share/ui.rc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/addrman.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/addrman.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/alert.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/alert.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/allocators.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/base58.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bignum.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bitcoinrpc.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bitcoinrpc.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/checkpoints.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/checkpoints.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/clientversion.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/coincontrol.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/compat.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/crypter.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/crypter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/db.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/db.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/init.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/init.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/irc.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/irc.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/json/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/json/json_spirit.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/json/json_spirit_error_position.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/json/json_spirit_reader.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/json/json_spirit_reader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/json/json_spirit_reader_template.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/json/json_spirit_stream_reader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/json/json_spirit_utils.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/json/json_spirit_value.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/json/json_spirit_value.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/json/json_spirit_writer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/json/json_spirit_writer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/json/json_spirit_writer_template.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/kernel.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/kernel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/key.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/key.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/keystore.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/keystore.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/NEWS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/TODO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/WINDOWS.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/build_detect_platform" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/autocompact_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/builder.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/builder.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/c.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/c_test.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/corruption_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/db_bench.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/db_impl.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/db_impl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/db_iter.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/db_iter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/db_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/dbformat.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/dbformat.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/dbformat_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/filename.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/filename.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/filename_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/leveldb_main.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/log_format.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/log_reader.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/log_reader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/log_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/log_writer.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/log_writer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/memtable.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/memtable.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/repair.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/skiplist.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/skiplist_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/snapshot.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/table_cache.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/table_cache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/version_edit.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/version_edit.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/version_edit_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/version_set.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/version_set.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/version_set_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/write_batch.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/write_batch_internal.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/db/write_batch_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/doc/bench/db_bench_sqlite3.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/doc/bench/db_bench_tree_db.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/doc/benchmark.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/doc/doc.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/doc/impl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/doc/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/doc/log_format.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/doc/table_format.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/helpers/memenv/memenv.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/helpers/memenv/memenv.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/helpers/memenv/memenv_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/include/leveldb/c.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/include/leveldb/cache.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/include/leveldb/comparator.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/include/leveldb/db.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/include/leveldb/env.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/include/leveldb/filter_policy.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/include/leveldb/iterator.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/include/leveldb/options.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/include/leveldb/slice.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/include/leveldb/status.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/include/leveldb/table.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/include/leveldb/table_builder.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/include/leveldb/write_batch.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/issues/issue178_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/issues/issue200_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/port/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/port/atomic_pointer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/port/port.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/port/port_example.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/port/port_posix.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/port/port_posix.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/port/port_win.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/port/port_win.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/port/thread_annotations.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/port/win/stdint.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/table/block.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/table/block.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/table/block_builder.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/table/block_builder.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/table/filter_block.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/table/filter_block.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/table/filter_block_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/table/format.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/table/format.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/table/iterator.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/table/iterator_wrapper.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/table/merger.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/table/merger.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/table/table.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/table/table_builder.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/table/table_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/table/two_level_iterator.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/table/two_level_iterator.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/arena.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/arena.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/arena_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/bloom.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/bloom_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/cache.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/cache_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/coding.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/coding.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/coding_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/comparator.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/crc32c.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/crc32c.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/crc32c_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/env.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/env_posix.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/env_test.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/env_win.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/filter_policy.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/hash.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/hash.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/histogram.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/histogram.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/logging.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/logging.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/mutexlock.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/options.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/posix_logger.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/random.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/status.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/testharness.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/testharness.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/testutil.cc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/leveldb/util/testutil.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/makefile.bsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/makefile.linux-mingw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/makefile.mingw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/makefile.osx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/makefile.unix" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/miner.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/miner.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/mruset.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/net.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/netbase.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/netbase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/noui.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pbkdf2.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pbkdf2.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/protocol.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/protocol.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/aboutdialog.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/aboutdialog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/addressbookpage.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/addressbookpage.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/addresstablemodel.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/addresstablemodel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/askpassphrasedialog.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/askpassphrasedialog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/bitcoin.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/bitcoin.qrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/bitcoinaddressvalidator.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/bitcoinaddressvalidator.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/bitcoinamountfield.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/bitcoinamountfield.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/bitcoingui.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/bitcoingui.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/bitcoinstrings.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/bitcoinunits.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/bitcoinunits.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/clientmodel.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/clientmodel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/coincontroldialog.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/coincontroldialog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/coincontroltreewidget.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/coincontroltreewidget.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/csvmodelwriter.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/csvmodelwriter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/editaddressdialog.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/editaddressdialog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/forms/aboutdialog.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/forms/addressbookpage.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/forms/askpassphrasedialog.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/forms/coincontroldialog.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/forms/editaddressdialog.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/forms/optionsdialog.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/forms/overviewpage.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/forms/qrcodedialog.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/forms/rpcconsole.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/forms/sendcoinsdialog.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/forms/sendcoinsentry.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/forms/signverifymessagedialog.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/forms/transactiondescdialog.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/guiconstants.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/guiutil.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/guiutil.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_af_ZA.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ar.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_be_BY.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_bg.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_bs.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ca.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ca@valencia.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ca_ES.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_cs.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_cy.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_da.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_de.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_el_GR.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_en.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_eo.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_es.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_es_CL.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_es_DO.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_es_MX.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_es_UY.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_et.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_eu_ES.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_fa.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_fa_IR.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_fi.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_fr.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_fr_CA.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_gl.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_he.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_hi_IN.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_hr.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_hu.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_id_ID.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_it.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ja.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ka.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_kk_KZ.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ko_KR.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ky.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_la.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_lt.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_lv_LV.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ms_MY.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_nb.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_nl.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_pam.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_pl.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_pt_BR.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_pt_PT.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ro_RO.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ru.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_sah.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_sk.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_sl_SI.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_sq.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_sr.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_sv.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_th_TH.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_tr.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_uk.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ur_PK.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_vi.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_vi_VN.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_zh_CN.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_zh_TW.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/macdockiconhandler.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/macdockiconhandler.mm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/monitoreddatamapper.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/monitoreddatamapper.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/notificator.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/notificator.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/optionsdialog.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/optionsdialog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/optionsmodel.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/optionsmodel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/overviewpage.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/overviewpage.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/qrcodedialog.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/qrcodedialog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/qtipcserver.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/qtipcserver.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/qvalidatedlineedit.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/qvalidatedlineedit.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/qvaluecombobox.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/qvaluecombobox.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/bitcoin-qt.rc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/src/bitcoin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/src/clock1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/src/clock2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/src/clock3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/src/clock4.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/src/clock5.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/src/clock_green.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/src/inout.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/res/src/questionmark.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/rpcconsole.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/rpcconsole.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/sendcoinsdialog.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/sendcoinsdialog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/sendcoinsentry.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/sendcoinsentry.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/signverifymessagedialog.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/signverifymessagedialog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/test/test_main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/test/uritests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/test/uritests.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/transactiondesc.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/transactiondesc.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/transactiondescdialog.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/transactiondescdialog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/transactionfilterproxy.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/transactionfilterproxy.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/transactionrecord.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/transactionrecord.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/transactiontablemodel.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/transactiontablemodel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/transactionview.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/transactionview.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/walletmodel.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/qt/walletmodel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/rpcblockchain.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/rpcdump.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/rpcmining.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/rpcnet.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/rpcrawtransaction.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/rpcwallet.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/script.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scrypt-arm.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scrypt-x86.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scrypt-x86_64.S" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scrypt.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scrypt.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/serialize.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/strlcpy.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sync.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sync.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Checkpoints_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/DoS_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/accounting_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/allocator_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/base32_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/base58_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/base64_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/bignum_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/data/base58_encode_decode.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/data/base58_keys_invalid.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/data/base58_keys_valid.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/data/script_invalid.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/data/script_valid.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/data/tx_invalid.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/data/tx_valid.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/getarg_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/key_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/mruset_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/multisig_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/netbase_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/rpc_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/script_P2SH_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/script_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/sigopcount_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/test_bitcoin.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/transaction_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/uint160_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/uint256_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/util_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/wallet_tests.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/threadsafety.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/txdb-leveldb.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/txdb-leveldb.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/txdb.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ui_interface.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/uint256.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/version.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/version.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wallet.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/wallet.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/walletdb.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/walletdb.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/Accumulator.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/Accumulator.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/AccumulatorProofOfKnowledge.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/AccumulatorProofOfKnowledge.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/Coin.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/Coin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/CoinSpend.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/CoinSpend.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/Commitment.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/Commitment.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/ParamGeneration.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/ParamGeneration.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/Params.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/Params.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/SerialNumberSignatureOfKnowledge.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/SerialNumberSignatureOfKnowledge.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/SpendMetaData.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/SpendMetaData.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/ZeroTest.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/ZeroTest.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/zerocoin/Zerocoin.h" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="E:\app\phalcon-devtools\ide\stubs" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="899" />
+    <option name="width" value="921" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\betcoin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f20f9309-3d4b-4d69-995c-ec96dc5d391d" name="Default" comment="" />
+      <created>1522682756933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522682756933</updated>
+      <workItem from="1522682758213" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1829" height="1096" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24985868" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
